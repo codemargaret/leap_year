@@ -1,4 +1,4 @@
-# _Redlight Greenlight_
+# _Leap Year_
 
 #### _A simple Ruby app that determines whether or not a year is a leap year, 09.01.2017_
 
@@ -23,9 +23,6 @@ _Run the following commands in Terminal:_
 
 ## Known Bugs
 * _Returns true for years divisible by 100, which are not actually leap years._
-
-## Notes
-_Although this project was created in September, I made a Git error, and did not commit anything until several months later._
 
 ## Support and contact details
 _If you have any updates, questions, or suggestions please contact [Margaret] or make a contribution._
